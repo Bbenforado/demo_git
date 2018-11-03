@@ -1,2 +1,2 @@
 # demo_git
-une demo de git
+j'ai reussi à ouvrir vim :x:xxxune demo de git
